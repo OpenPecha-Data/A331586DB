@@ -1,0 +1,19 @@
+id: A331586DB
+title: Töpa Gyatsoma Offering Prayer
+type: translation
+pechas:
+- IB4484A81
+- IE782714C
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:31:32.617793
+  last_modified_at: 2023-01-04 11:31:32.617805
+  collections:
+  - Chögyal Pakpa Lodrö Gyaltsen
+  - Works of Tibetan Masters
+alignment_to_base:
+  IB4484A81/B5BF: 2F71
+  IE782714C/A6B3: 2F71
